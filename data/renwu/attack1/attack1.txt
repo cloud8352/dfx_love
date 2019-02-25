@@ -1,0 +1,6 @@
+1,data/renwu/attack1/1_200-0.png,31,99
+2,data/renwu/attack1/1_200-1.png,31,100
+3,data/renwu/attack1/1_200-2.png,31,99
+4,data/renwu/attack1/1_200-3.png,31,100
+5,data/renwu/attack1/1_200-4.png,31,100
+6,data/renwu/attack1/1_200-5.png,31,101

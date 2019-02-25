@@ -1,0 +1,10 @@
+1,data/renwu/XieShangTi/1_255-0.png,19,123,
+2,data/renwu/XieShangTi/1_255-1.png,43,119
+3,data/renwu/XieShangTi/1_255-2.png,49,109
+4,data/renwu/XieShangTi/1_255-3.png,29,104
+5,data/renwu/XieShangTi/1_255-4.png,12,115
+6,data/renwu/XieShangTi/1_255-5.png,6,108
+7,data/renwu/XieShangTi/1_255-6.png,3,108
+8,data/renwu/XieShangTi/1_255-7.png,15,102
+9,data/renwu/XieShangTi/1_255-8.png,5,93
+10,data/renwu/XieShangTi/1_255-9.png,10,93

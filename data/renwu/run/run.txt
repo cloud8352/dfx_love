@@ -1,0 +1,8 @@
+1,data/renwu/run/1_100-0.png,22,82
+2,data/renwu/run/1_100-1.png,51,89
+3,data/renwu/run/1_100-2.png,48,94
+4,data/renwu/run/1_100-3.png,50,94
+5,data/renwu/run/1_100-4.png,24,81
+6,data/renwu/run/1_100-5.png,51,90
+7,data/renwu/run/1_100-6.png,50,96
+8,data/renwu/run/1_100-7.png,46,95

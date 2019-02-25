@@ -1,0 +1,4 @@
+1,data/renwu/180run/180-0.png,86,252
+2,data/renwu/180run/180-1.png,79,250
+3,data/renwu/180run/180-2.png,85,252
+4,data/renwu/180run/180-3.png,81,251

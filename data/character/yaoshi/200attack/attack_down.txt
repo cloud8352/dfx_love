@@ -1,0 +1,2 @@
+1,data/character/yaoshi/200attack/200-7.png,89,242
+2,data/character/yaoshi/200attack/200-10.png,30,244

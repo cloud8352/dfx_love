@@ -1,0 +1,6 @@
+1,data/character/yaoshi/250shang ti/250-0.png,66,249
+2,data/character/yaoshi/250shang ti/250-1.png,78,247
+3,data/character/yaoshi/250shang ti/250-2.png,77,249
+4,data/character/yaoshi/250shang ti/250-3.png,78,248
+5,data/character/yaoshi/250shang ti/250-4.png,67,252
+6,data/character/yaoshi/250shang ti/250-5.png,66,249

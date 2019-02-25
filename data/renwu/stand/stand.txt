@@ -1,0 +1,8 @@
+1,data/renwu/stand/1_0-18.png,28,108
+2,data/renwu/stand/1_0-19.png,28,107
+3,data/renwu/stand/1_0-20.png,28,107
+4,data/renwu/stand/1_0-21.png,28,107
+5,data/renwu/stand/1_0-22.png,28,107
+6,data/renwu/stand/1_0-21.png,28,107
+7,data/renwu/stand/1_0-20.png,28,107
+8,data/renwu/stand/1_0-19.png,28,107

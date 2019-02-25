@@ -1,0 +1,1050 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ju",
+				"jump"
+			],
+			[
+				"jumpi",
+				"jumping"
+			],
+			[
+				"a",
+				"attack_float_num"
+			],
+			[
+				"Y",
+				"Yaoshi"
+			],
+			[
+				"se",
+				"self.height"
+			],
+			[
+				"self",
+				"self.width"
+			],
+			[
+				"sm",
+				"smallmap_charpos.y"
+			],
+			[
+				"la",
+				"largemap.width"
+			],
+			[
+				"small",
+				"smallmap_height"
+			],
+			[
+				"smallmap_",
+				"smallmap_width"
+			],
+			[
+				"M",
+				"MapWidth"
+			],
+			[
+				"u",
+				"upto"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"L",
+				"LargeMapData"
+			],
+			[
+				"test",
+				"testmap"
+			],
+			[
+				"N",
+				"NormalMap.new"
+			],
+			[
+				"x",
+				"xtop"
+			],
+			[
+				"str",
+				"strdiv1"
+			],
+			[
+				"func",
+				"function\tfunction"
+			],
+			[
+				"B",
+				"BeAttackedUp"
+			],
+			[
+				"key",
+				"keystr"
+			],
+			[
+				"MapData_",
+				"MapData_collider"
+			],
+			[
+				"C",
+				"CheckBox"
+			],
+			[
+				"U",
+				"Updata"
+			],
+			[
+				"c",
+				"colliderbox"
+			],
+			[
+				"CC",
+				"CC_ColliderBox.new"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"txt",
+				"txtMethod"
+			],
+			[
+				"img",
+				"imgaddress"
+			],
+			[
+				"S",
+				"Show"
+			],
+			[
+				"da",
+				"data/"
+			],
+			[
+				"div1",
+				"div1_num"
+			],
+			[
+				"off",
+				"offx,offy"
+			],
+			[
+				"Map",
+				"MapData"
+			],
+			[
+				"Ma",
+				"MapName"
+			],
+			[
+				"D",
+				"DivStr"
+			],
+			[
+				"di",
+				"div1_num"
+			],
+			[
+				"cu",
+				"cutby"
+			],
+			[
+				"G",
+				"GetScreenOffset"
+			],
+			[
+				"F",
+				"Followx"
+			],
+			[
+				"coll",
+				"colliderbox"
+			],
+			[
+				"e",
+				"elseif"
+			],
+			[
+				"ret",
+				"return\treturn 返回"
+			],
+			[
+				"att",
+				"attack"
+			],
+			[
+				"A",
+				"Attack2Key"
+			],
+			[
+				"RE",
+				"ReactLogic"
+			],
+			[
+				"R",
+				"RightKey"
+			],
+			[
+				"Ch",
+				"CheckBox"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"o",
+				"otherx"
+			],
+			[
+				"sprfra",
+				"sprfram"
+			],
+			[
+				"colli",
+				"CC_ColliderBox"
+			],
+			[
+				"i",
+				"img"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/LargeMap.lua",
+			"settings":
+			{
+				"buffer_size": 2902,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/NormalMap.lua",
+			"settings":
+			{
+				"buffer_size": 6766,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/Kyo.lua",
+			"settings":
+			{
+				"buffer_size": 14770,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/CC_engineadd.lua",
+			"settings":
+			{
+				"buffer_size": 2707,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/Yaoshi.lua",
+			"settings":
+			{
+				"buffer_size": 13273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/engineadd/CC_SpriteFrame.lua",
+			"settings":
+			{
+				"buffer_size": 2781,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/DF X/dfx_love v0.6"
+	],
+	"file_history":
+	[
+		"/E/DF X/dfx_love v0.3/conf.lua",
+		"/E/DF X/dfx_love v0.3/lib/engineadd/CC_ColliderBox.lua",
+		"/E/DF X/dfx_love v0.3/lib/Kyo.lua",
+		"/E/DF X/dfx_love v0.3/lib/engineadd/CC_Sprite.lua",
+		"/E/DF X/dfx_love v0.3/lib/CC_engineadd.lua",
+		"/E/DF X/dfx_love v0.3/lib/LargeMap.lua",
+		"/E/DF X/dfx_love v0.3/lib/NormalMap.lua",
+		"/E/DF X/dfx_love v0.3/lib/engineadd/CC_SpriteFrame.lua",
+		"/F/DF X/dfx_love v0.3/lib/engineadd/CC_Sprite.lua",
+		"/F/DF X/dfx_love v0.3/lib/Kyo_t.lua",
+		"/F/DF X/dfx_love v0.3/lib/Kyo.lua",
+		"/F/DF X/dfx_love v0.3/lib/CC_engineadd.lua",
+		"/F/DF X/dfx_love v0.3/conf.lua",
+		"/F/DF X/dfx_love v0.3/lib/engineadd/CC_SpriteFrame.lua",
+		"/F/DF X/dfx_love v0.2/lib/Kyo.lua",
+		"/F/DF X/dfx_love v0.2/lib/Kyo_t.lua",
+		"/F/DF X/dfx_love v0.2/lib/CC_engineadd.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/CC_SpriteFrame.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/CC_ColliderBox.lua",
+		"/F/DF X/dfx_love v0.2/lib/NormalMap.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/CC_Sprite.lua",
+		"/F/DF X/dfx_love v0.2/lib/Kyo2.lua",
+		"/F/DF X/dfx_love v0.2/lib/a The A key",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/CC_ImgColliderBox.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/txtMethod.lua",
+		"/F/DF X/dfx_love v0.2/conf.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/ColorMain.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/Color.lua",
+		"/F/DF X/dfx_love v0.2/lib/engineadd/CC_SpriteFrame 11.13.lua",
+		"/F/DF X/dfx_love/lib/engineadd/txtMethod.lua",
+		"/F/DF X/dfx_love/conf.lua",
+		"/F/DF X/dfx_love/lib/engineadd/ColorMain.lua",
+		"/F/DF X/dfx_love/lib/engineadd/Color.lua"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self.shuxing.JumpKey",
+			"renwu",
+			"Kyo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"character/yaoshi",
+			"Yaoshi"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1024
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								11,
+								9,
+								22,
+								20,
+								53,
+								9,
+								69,
+								14,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/LargeMap.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								402
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								20,
+								14,
+								1,
+								32,
+								1,
+								104,
+								179,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/NormalMap.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5601,
+								5601
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								20,
+								13,
+								4,
+								50,
+								1,
+								98,
+								229,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/Kyo.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								20,
+								13,
+								4,
+								50,
+								1,
+								37,
+								245,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/CC_engineadd.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								20,
+								13,
+								4,
+								50,
+								0,
+								172,
+								21,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/Yaoshi.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								21,
+								13,
+								54,
+								30,
+								13,
+								157,
+								237,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/engineadd/CC_SpriteFrame.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								20,
+								13,
+								4,
+								50,
+								1,
+								37,
+								245,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"project": "dfx.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,10 @@
+1,data/character/yaoshi/20walk/20-0.png,74,253
+2,data/character/yaoshi/20walk/20-1.png,84,258
+3,data/character/yaoshi/20walk/20-2.png,84,255
+4,data/character/yaoshi/20walk/20-3.png,84,252
+5,data/character/yaoshi/20walk/20-4.png,81,260
+6,data/character/yaoshi/20walk/20-5.png,89,263
+7,data/character/yaoshi/20walk/20-6.png,77,259
+8,data/character/yaoshi/20walk/20-7.png,61,264
+9,data/character/yaoshi/20walk/20-8.png,47,258
+10,data/character/yaoshi/20walk/20-9.png,58,257

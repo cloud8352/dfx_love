@@ -1,0 +1,4 @@
+1,data/character/yaoshi/600jump attack/600-0.png,72,238
+2,data/character/yaoshi/600jump attack/600-1.png,83,238
+3,data/character/yaoshi/600jump attack/600-2.png,53,242
+4,data/character/yaoshi/600jump attack/600-3.png,16,249

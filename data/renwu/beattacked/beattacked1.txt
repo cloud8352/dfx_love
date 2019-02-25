@@ -1,0 +1,4 @@
+1,data/renwu/beattacked/1_5000-0.png,36,103
+2,data/renwu/beattacked/1_5000-10.png,47,102
+3,data/renwu/beattacked/1_5000-20.png,57,98
+4,data/renwu/beattacked/1_5000-21.png,62,94

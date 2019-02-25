@@ -1,0 +1,2 @@
+1,data/character/yaoshi/40jump/41-6.png,99,267
+2,data/character/yaoshi/40jump/41-7.png,78,273

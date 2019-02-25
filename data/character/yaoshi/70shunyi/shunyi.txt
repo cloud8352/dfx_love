@@ -1,0 +1,4 @@
+1,data/character/yaoshi/70shunyi/70-0.png,69,224
+2,data/character/yaoshi/70shunyi/70-1.png,77,226
+3,data/character/yaoshi/70shunyi/70-2.png,107,218
+4,data/character/yaoshi/70shunyi/70-3.png,84,249

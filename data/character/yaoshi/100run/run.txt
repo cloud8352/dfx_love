@@ -1,0 +1,12 @@
+2,data/character/yaoshi/100run/100-1.png,74,212
+3,data/character/yaoshi/100run/100-2.png,75,215
+4,data/character/yaoshi/100run/100-3.png,80,222
+5,data/character/yaoshi/100run/100-4.png,82,225
+6,data/character/yaoshi/100run/100-5.png,82,222
+7,data/character/yaoshi/100run/100-6.png,93,217
+8,data/character/yaoshi/100run/100-7.png,91,216
+9,data/character/yaoshi/100run/100-8.png,78,214
+10,data/character/yaoshi/100run/100-9.png,83,222
+11,data/character/yaoshi/100run/100-10.png,83,219
+12,data/character/yaoshi/100run/100-11.png,85,220
+13,data/character/yaoshi/100run/100-12.png,85,219

@@ -1,0 +1,1 @@
+1,data/renwu/walk/1_20-0.png,25,99

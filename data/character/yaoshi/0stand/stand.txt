@@ -1,0 +1,6 @@
+1,data/character/yaoshi/0stand/0-2.png,79,257
+2,data/character/yaoshi/0stand/0-3.png,79,257
+3,data/character/yaoshi/0stand/0-4.png,79,257
+4,data/character/yaoshi/0stand/0-5.png,79,257
+5,data/character/yaoshi/0stand/0-6.png,79,257
+6,data/character/yaoshi/0stand/0-7.png,79,257

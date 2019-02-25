@@ -1,0 +1,9 @@
+1,data/renwu/250run/230-0.png,66,249
+2,data/renwu/250run/230-1.png,78,247
+2,data/renwu/250run/230-2.png,66,249
+
+3,data/renwu/250run/250-0.png,77,249
+4,data/renwu/250run/250-1.png,78,248
+5,data/renwu/250run/250-2.png,66,249
+
+6,data/renwu/250run/250-8.png,67,252

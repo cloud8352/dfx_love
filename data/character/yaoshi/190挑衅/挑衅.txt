@@ -1,0 +1,6 @@
+1,data/renwu/190run/190-0.png,67,247
+2,data/renwu/190run/190-1.png,63,248
+3,data/renwu/190run/190-2.png,45,252
+4,data/renwu/190run/190-3.png,50,236
+5,data/renwu/190run/190-4.png,55,232
+6,data/renwu/190run/190-5.png,63,225
