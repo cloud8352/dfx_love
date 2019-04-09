@@ -61,7 +61,16 @@ function Q_control.init()
 
   --初始化ui
   UI_init()
-
+  
+  --路径规划初始化
+  collider_group = {}
+  point_enable = {}
+  route = {}
+  for i=1,#map.MapData_collider do
+    collider_group[i] = map.MapData_collider[i].colliderbox
+  end
+  route = trans_matrix_init(collider_group,move_collider,point_enable)
+    
   --把显示的对象统一放在一个table里
   ScreenShowObj = {}
   table.insert(ScreenShowObj, kyo)
@@ -435,15 +444,15 @@ function Q_control.draw()
   
   if Q_debug then
     local j = 1
-    if route[j] then
-      for i=1,#route[j] do
+    if route_shortest[j] then
+      for i=1,#route_shortest[j] do
         love.graphics.setColor( 0,0,1, 1 )
-        local x = route[j][i].x + screenoff.x
-        local y = route[j][i].y + screenoff.y
+        local x = route_shortest[j][i].x + screenoff.x
+        local y = route_shortest[j][i].y + screenoff.y
         love.graphics.rectangle( "line", x-20, y-10, 40, 20 )
         if i>1 then
-          love.graphics.line(route[j][i-1].x+ screenoff.x,route[j][i-1].y +screenoff.y,
-            route[j][i].x+ screenoff.x,route[j][i].y +screenoff.y)
+          love.graphics.line(route_shortest[j][i-1].x+ screenoff.x,route_shortest[j][i-1].y +screenoff.y,
+            route_shortest[j][i].x+ screenoff.x,route_shortest[j][i].y +screenoff.y)
         end
           
       end
@@ -764,43 +773,31 @@ end
 
 route_index = {}
 --route_time = 3
-route = {}
+route_shortest = {} --每个人偶对应的最短路线
 function  PuppetLogic(dt) --人偶逻辑
   --route_time = route_time + dt
   if #enemy_group >0 then
     for i=1,#enemy_group do
         if enemy_group[i].ispuppet then
-          local collider_group = {}
-          for i=1,#map.MapData_collider do
-            table.insert(collider_group, map.MapData_collider[i].colliderbox)
-          end 
-          local route_temp = CheckDirectRoute(collider_group,move_collider,enemy_group[i].x,enemy_group[i].y,swordman.x,swordman.y)
-          if #route_temp ~= 0 then
-            route[i] = table_copy(route_temp)
-            route_index[i] = 2
-          else
-            if route[i] == nil
-            or #route[i] == 0
-            or route_index[i] > #route[i]
-            then
-              route[i] = GetMINRoute(collider_group,move_collider,enemy_group[i].x,enemy_group[i].y,swordman.x,swordman.y,0.1)
-              route_index[i] = 2
-            end
-          end
-          
-          if route[i]
-          and #route[i] ~= 0 
+          local sx = enemy_group[i].x
+          local sy = enemy_group[i].y
+          local ex = swordman.x
+          local ey = swordman.y
+          route_shortest[i] = GetMINRoute(collider_group,move_collider,point_enable,trans_matrix,route,sx,sy,ex,ey,ot)
+          route_index = 2
+          if route_shortest[i]
+          --and #route[i] ~= 0 
           then
-            enemy_group[i]:MoveTo(dt,route[i][route_index[i]].x,route[i][route_index[i]].y)
-            
-            if enemy_group[i].x > route[i][route_index[i]].x -5
-            and enemy_group[i].x <= route[i][route_index[i]].x +5
-            and enemy_group[i].y > route[i][route_index[i]].y -5
-            and enemy_group[i].y <= route[i][route_index[i]].y +5
+              
+            if enemy_group[i].x > route_shortest[i][route_index].x -5
+            and enemy_group[i].x <= route_shortest[i][route_index].x +5
+            and enemy_group[i].y > route_shortest[i][route_index].y -5
+            and enemy_group[i].y <= route_shortest[i][route_index].y +5
+            and #route_shortest[i] > 2
             then
-              route_index[i] = route_index[i] + 1  
+              route_index = route_index + 1
             end
-            
+            enemy_group[i]:MoveTo(dt,route_shortest[i][route_index].x,route_shortest[i][route_index].y)
             --print("#route",#route)
             --print("route_index",route_index) 
           end
