@@ -13,6 +13,10 @@ function love.load() --资源加载回调函数，仅初始化时调用一次
   --如果调试启动，就开启调试模式
   if arg[#arg] == "-debug" then require("mobdebug").start() end
   
+  if love.filesystem.isFused() then
+    print("current is in fused model")
+  end
+  
   loveframes = require("lib.loveframes")
   Q_control.init()
  

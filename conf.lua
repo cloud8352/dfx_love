@@ -1,4 +1,4 @@
-﻿--[[ 引擎配置,初始化 --]]
+--[[ 引擎配置,初始化 --]]
 
 io.stdout:setvbuf("no") --控制台输出窗口,优先输出如果没有则在程序结束后再输出的
 
@@ -23,7 +23,7 @@ function love.conf(t)
     t.window.vsync = false             -- 垂直同步 (boolean)
     t.window.fsaa = 0                  -- 采用多样本采样抗锯齿 (number)
     t.window.display = 1               -- 显示器的指示显示窗口 (number)
-    t.window.highdpi = false           -- 允许在视网膜显示器(Retina)下使用高DPI模式 (boolean)
+    t.window.highdpi = true           -- 允许在视网膜显示器(Retina)下使用高DPI模式 (boolean)
     t.window.srgb = false              -- 在屏幕上显示时允许使用sRGB伽马校正 (boolean)
  
     t.modules.audio = true             -- 加载 audio        模块 (boolean)
@@ -42,3 +42,4 @@ function love.conf(t)
     t.modules.thread = true            -- 加载 thread       模块 (boolean)
 
 end
+

@@ -1,2 +1,3 @@
-#!/bin/bash 
-love --fused ./
+#!/bin/sh
+
+sh -c "./love2d/love ./"
